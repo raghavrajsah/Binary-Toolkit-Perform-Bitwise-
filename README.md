@@ -12,7 +12,7 @@ Welcome to the Binary Toolkit project! This toolkit provides functionalities for
 Clone the repository on your local machine. The primary code for this project will be implemented in the `toolkit.c` file.
 
 ```bash
-git clone <https://github.com/raghavrajsah/Binary-Toolkit-Perform-Bitwise-.git>
+git clone https://github.com/raghavrajsah/Binary-Toolkit-Perform-Bitwise-.git
 
 ```
 
